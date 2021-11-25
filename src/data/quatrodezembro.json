@@ -1,0 +1,16 @@
+[
+    {
+        "id": "5",
+        "dia": "04",
+        "mes": "DEZ",
+        "titulo": "TEATRO “Duendes Congelados”, pelos Malad’arte",
+        "hora": "11h00 e 15h00",
+        "local": "MUSEU DOS BISCAINHOS",
+        "subtitulo": "",
+        "descricao": "Dois duendes viajam de cidade em cidade, por entre vales e montes, com o objetivo de realizarem uma missão apenas conhecida por eles. Pelo caminho encontram dificuldades, tais como o frio, a longevidade dos caminhos e até encontros indesejados.Um desses encontros marca a história destes duendes, entre trambolhões e confusões uma amizade de partilha cresce à medida que os corações se aquecem de carinho. Estes duendes saem da sua terra natal com a função de aquecer corações e essa missão não pode ficar por meios caminhos.",
+        "classificacaoEtaria": "M3",
+        "entrada": "entrada livre, sujeita à limitação do espaço",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "cincodezembro"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "dia": "05",
+        "mes": "DEZ",
+        "titulo": "TEATRO “Duendes Congelados”, pelos Malad’arte",
+        "hora": "11h00 e 15h00",
+        "local": "MUSEU DOS BISCAINHOS",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    },
+    {
+        "id": "2",
+        "horavento": "11h00 - 18h00",
+        "tituloPrincipal": "M.I.A #3 - Edição especial de Natal",
+        "localEvento": " MERCADO CULTURAL DO CARANDÁ",
+        "subtituloEvento": "",
+        "descricaoEvento": "Os M.I.A - Mercados Incríveis de Arte - regressam para uma edição especialmente dedicada à época natalícia! Iniciativa do segmento INCUBADORA da Plataforma do Pandemónio, em parceria com a Academia Tin.Bra e com o apoio do Município de Braga, os M.I.A pretendem revitalizar a tradição dos mercados culturais bracarenses, contribuindo assim para estimular o sector cultural da região. Mas os M.I.A são mais que um mercado: com poiso no Mercado Cultural do Carandá, visam ainda desenvolver novas dinâmicas culturais descentralizadas, articulando diferentes agentes e promotores culturais. Decorrem no primeiro domingo de cada mês, trazendo também um conjunto de atividades paralelas surpreendentes. Nesta edição, além de variados expositores (dedicados à pintura, ilustração ou colagem analógica, mas também ao artesanato, livros usados e outras surpresas), o dia será preenchido com diferentes performances e oficinas.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "3",
+        "horavento": "19h00",
+        "tituloPrincipal": "CICLO DE ADVENTO E NATAL – “Viagem de Inverno”",
+        "localEvento": "SALÃO MEDIEVAL DA REITORIA DA UNIVERSIDADE DO MINHO, LARGO DO PAÇO",
+        "subtituloEvento": "“Será Verdade?”, pelo Quarteto Euterpe",
+        "descricaoEvento": "Com o cair da tarde de domingo, dia 5 de dezembro, o Quarteto Euterpe trará ao Salão Medieval um recital de música de câmara. Dois violinos, uma viola d’arco e um violoncelo exploram as melodias e harmonias de Felix Mendelssohn, L. van Beethoven e e Webern e convidam o público a entrar numa viagem com paisagens sonoras contrastantes.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA À LIMITAÇÃO DO ESPAÇO"
+    },
+    {
+        "id": "4",
+        "horavento": "",
+        "tituloPrincipal": "Comemorações do Dia de S. Geraldo",
+        "localEvento": "",
+        "subtituloEvento": "",
+        "descricaoEvento": "O Dia de São Geraldo celebra-se anualmente a 5 de dezembro e é revestido de um significado particular pelo facto desta personalidade ser considerada o padroeiro da cidade de Braga. A Câmara Municipal de Braga associa-se de uma forma mais ativa à comemoração desta data simbólica para a cidade de Braga, potenciando iniciativas que complementam o programa elaborado pelo Cabido da Sé Primaz.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "5",
+        "horavento": "17h30",
+        "tituloPrincipal": "",
+        "localEvento": "SÉ CATEDRAL",
+        "subtituloEvento": "Celebração da Missa solene em honra de S. Geraldo",
+        "descricaoEvento": "A Missa em honra de S. Geraldo é presidida pelo Arcebispo Primaz, D. Jorge Ortiga estando presentes o Cabido e autarcas do concelho de Braga. A solenização da Missa é feita pelo Orfeão de Braga.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": "",
+        "direcao": "DIREÇÃO MUSICAL : ALEXANDRE SILVA"
+    },
+    {
+        "id": "6",
+        "horavento": "21h30",
+        "tituloPrincipal": "“Grandes Clássicos de Orquestra” pela Orquestra Filarmónica de Braga",
+        "localEvento": "THEATRO CIRCO",
+        "subtituloEvento": " ",
+        "descricaoEvento": "Para celebrar o dia de S. Geraldo, padroeiro da cidade de Braga, a OFB realiza um concerto onde serão interpretadas grandes obras consideradas os melhores clássicos do repertório escrito para Orquestra. Um programa bastante eclético com temas bem conhecidos do público numa viagem por diversos compositores intemporais como Beethoven, Mozart, Dvorak, etc… A sonoridade da Orquestra num lindo concerto que terminará com a interpretação do Hino da cidade de Braga. Uma linda homenagem que fará as delícias do público num concerto para partilhar com amigos e família. A direção musical estará ao cargo do maestro bracarense Filipe Cunha.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE",
+        "direcao": ""
+    }
+]

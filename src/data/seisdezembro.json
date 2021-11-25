@@ -1,0 +1,16 @@
+[
+    {
+        "id": "7",
+        "dia": "06",
+        "mes": "DEZ",
+        "titulo": "Ambiente Solidário",
+        "hora": "09h30 - 12h30 e 14h00 - 17h30",
+        "local": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtitulo": "",
+        "descricao": "Esta iniciativa solidária prevê a troca de um pinheiro natural por um bem alimentar essencial que será doado a quem mais precisa. Com o objetivo de sensibilizar para o abate indiscriminado e desordenado de árvores, nesta época.",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    }
+]

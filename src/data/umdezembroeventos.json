@@ -1,0 +1,74 @@
+[
+    {
+        "id": "2",
+        "tituloprincipal": "CICLO DE CINEMA – \"O dia mais curto\"",
+        "por": "pelo CINECLUBE AURÉLIO DA PAZ DOS REIS",
+        "entradaDiaMaisCurto": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "horavento": "10h30",
+        "localEvento": "AUDITÓRIO S. FRUTUOSO",
+        "subtituloEvento": "Sessão Amiguinhos | Sessão Família",
+        "descricaoEvento": "Este ano na Sessão Amiguinhos iremos ver 6 curtas-metragens de vários países europeus a pensar nos mais pequenos. Uma sessão para maiores de 3 anos proposta pelo ‘Short Circuit’, uma rede europeia de organismos que se dedicam à promoção e divulgação de curtas metragens.",
+        "duracaoEvento": "DURAÇÃO: 44MIN",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA:M3"
+    },
+    {
+        "id": "3",
+        "horavento": "15h00",
+        "localEvento": "AUDITÓRIO S. FRUTUOSO",
+        "subtituloEvento": "Curtinhas para todos | Sessão Família",
+        "descricaoEvento": "Esta programação parte dos filmes premiados na mais recente edição do ‘Curtas Vila do Conde’ e mostra-nos que, tal como a imaginação, também o cinema de animação não tem limites. Preparem-se para conhecer novos mundos com muita animação, diversão e aventuras.",
+        "duracaoEvento": "DURAÇÃO: 56MIN",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA:M6"
+    },
+    {
+        "id": "4",
+        "horavento": "10h00",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "\"Soldadinhos de chumbo\", pelo Grupo de Percussão da Equipa Espiral",
+        "descricaoEvento": ""
+    },
+    {
+        "id": "5",
+        "horavento": "11h00 e 17h00",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "Xaral’s Dixie",
+        "descricaoEvento": ""
+    },
+    {
+        "id": "6",
+        "horavento": "15h00",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "Bomboémia",
+        "descricaoEvento": ""
+    },
+    {
+        "id": "7",
+        "horavento": "17h30",
+        "localEvento": "AVENIDA CENTRAL",
+        "subtituloEvento": "CONCERTO \"Canto Lírico visita o Natal\", pela Ópera de Bolso",
+        "descricaoEvento": "O Natal de Braga recebe a visita das mais emblemáticas canções de Natal, embaladas por vozes do Bel Canto que nos transportarão ainda a outras latitudes musicais."
+    },
+    {
+        "id": "8",
+        "horavento": "18h00",
+        "localEvento": "AVENIDA CENTRAL",
+        "subtituloEvento": "INAUGURAÇÃO DAS LUZES DE NATAL",
+        "descricaoEvento": ""
+    },
+    {
+        "id": "9",
+        "tituloevento": "CONCERTO, pelo Saint Dominic’s Gospel Choir",
+        "horavento": "18h00",
+        "localEvento": "PALCO BRAGA É NATAL",
+        "subtituloEvento": "",
+        "descricaoEvento": "O St. Dominic’s é o maior e mais antigo coro de gospel português. O Saint Dominic’s Gospel Choir foi fundado a 7 de outubro de 2002, pelo maestro João Castro."
+    },
+    {
+        "id": "10",
+        "tituloevento": "Mesa na Praça – Mercado Municipal de Braga",
+        "horavento": "19h30",
+        "localEvento": "",
+        "subtituloEvento": "CONCERTO, por Jorge Nabais, acústico",
+        "descricaoEvento": ""
+    }
+]

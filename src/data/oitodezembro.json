@@ -1,0 +1,16 @@
+[
+    {
+        "id": "7",
+        "dia": "08",
+        "mes": "DEZ",
+        "titulo": "Ambiente Solidário",
+        "hora": "09h30 – 12h30 e 14h00 – 17h30",
+        "local": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    }
+]

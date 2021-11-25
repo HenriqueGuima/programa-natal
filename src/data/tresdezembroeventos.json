@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "dia": "03",
+        "mes": "DEZ",
+        "titulo": "CICLO DE CINEMA – “O dia mais curto” pelo CINECLUBE AURÉLIO DA PAZ DOS REIS",
+        "hora": "15h00",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Novas Curtas Portuguesas | Sessão Maior",
+        "descricao": "Ao longo dos últimos anos, a curta-metragem portuguesa tem visto reconhecida a sua qualidade em festivais de cinema de todo o mundo. Uma seleção de obras construídas em Portugal, que percorre todos os géneros cinematográficos e promete não deixar ninguém indiferente",
+        "duracao": "72MIN",
+        "classificacaoEtaria": "M12",
+        "entrada": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "tresdezembro"
+    },
+    {
+        "id": "2",
+        "horavento": "19h30",
+        "tituloPrincipal": "Mesa na Praça – Mercado Municipal de Braga",
+        "localEvento": "",
+        "subtituloEvento": "CONCERTO, pelo Ensemble da Escola de Jazz de Braga",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "dia": "07",
+        "mes": "DEZ",
+        "titulo": "Ambiente Solidário",
+        "hora": "09h30 - 12h30 e 14h00",
+        "local": " QUINTA PEDAGÓGICA DE BRAGA",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    },
+    {
+        "id": "2",
+        "horavento": "18h00",
+        "tituloPrincipal": "“O Baile dos Candeeiros”, por Radar 360",
+        "localEvento": "LARGO DO PAÇO",
+        "subtituloEvento": "",
+        "descricaoEvento": "Todos nós temos um universo mágico que carregamos da nossa infância. Candeeiros humanos, autónomos, espalhados por pontos estratégicos, transformam os espaços que habitam, e deslocam-se através deles com movimentos específicos: acendem, apagam, respiram, interagem... Com este trabalho, a companhia RADAR 360º, quer reforçar o ato criativo no universo das artes de rua, apostando numa intervenção não convencional, com fortes contornos plásticos e características multidisciplinares. Explora o conceito de instalação e associa a composição coreográfica de movimento dos corpos no espaço, á luz como cenário visual vivo.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "3",
+        "horavento": "19h00",
+        "tituloPrincipal": "",
+        "localEvento": "LARGO D. JOÃO PECULIAR",
+        "subtituloEvento": "Azeituna",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "4",
+        "horavento": "21h30",
+        "tituloPrincipal": "“Christmas Soul”, pela Academia Souldancers",
+        "localEvento": "ESPAÇO VITA",
+        "subtituloEvento": "",
+        "descricaoEvento": "Este Natal iremos apresentar coreografias de dança que permitirão explorar a consciência corporal dos dançarinos e dançarinas da academia. Num ambiente pós pandemia, todos reaprendem a mover-se e a exprimir-se aos diferentes ritmos apresentados. Mostra de trabalhos realizados com a alegria, brilho e entusiasmo característicos da época natalícia.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    }
+]

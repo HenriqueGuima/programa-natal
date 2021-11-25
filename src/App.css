@@ -13,6 +13,82 @@
   }
 }
 
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+/* html:focus-within {
+  scroll-behavior: smooth;
+} */
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  /* html:focus-within {
+    scroll-behavior: auto;
+  } */
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    /* scroll-behavior: auto !important; */
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +111,279 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.a_novidades {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+}
+
+.a_novidades_title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.a_novidades img {
+  width: 375px;
+  padding: 7px 0;
+  border-radius: 50px;
+  position: relative;
+}
+
+.intro-image {
+  width: 100%;
+}
+
+.top_container {
+  background-color: #102e4a;
+  text-align: justify;
+}
+
+.top_div img {
+  width: 100%;
+}
+
+.top_div {
+  background-image: url("./assets/imagens/capa2.jpg");
+  height: 60vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.evento-dia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.5s;
+  border-radius: 50px;
+  /* height: 300px; */
+}
+
+.cargo {
+  font-size: 1.4rem;
+  /* font-weight: bold; */
+  color: #fff;
+}
+
+.evento-dia-calendario {
+  display: grid;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.5s;
+  height: 300px;
+  border: 2px dashed #0f1820;
+}
+
+a:hover {
+  /* background-color: #102e4a; */
+  color: #dcae27;
+}
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+.events_section {
+  background-color: #102e4a;
+  color: white;
+}
+
+.data_evento {
+  text-align: -webkit-left;
+}
+
+.titulo_evento {
+  text-align: -webkit-left;
+  font-size: 2rem;
+  color: #dcae27;
+  font-weight: 900;
+}
+
+.hora_evento {
+  text-align: -webkit-left;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.local_evento {
+  text-align: -webkit-left;
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+}
+
+.subtitulo_evento {
+  text-align: -webkit-left;
+  font-size: 1.5rem;
+  color: #dcae27;
+  font-weight: bold;
+}
+
+.descricao_evento {
+  text-align: -webkit-left;
+  font-size: 1.2rem;
+  color: black;
+  text-align: justify;
+}
+
+.classificacao_etaria_evento {
+  text-align: -webkit-left;
+  font-size: 1rem;
+  color: black;
+  font-weight: bold;
+}
+
+.entrada_evento {
+  text-align: -webkit-left;
+  font-size: 1rem;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.page-footer-event {
+  background-color: #102e4a;
+  color: white;
+}
+
+@media (min-width: 1024px) {
+  .top_div {
+    background-image: url("./assets/imagens/capa2.jpg");
+    height: 90vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1440px) {
+  .top_div {
+    background-image: url("./assets/imagens/capa2.jpg");
+    height: 80vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 500px) {
+  .a_novidades {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+  }
+  .top_container {
+    background-color: #102e4a;
+    text-align: left;
+  }
+  .descricao_evento {
+    text-align: -webkit-left;
+    font-size: 1rem;
+    color: black;
+    text-align: left;
+  }
+  .mobile-letras-amarelo {
+    color: #dcae27;
+  }
+  .events_desktop {
+    display: none;
+  }
+  .events_mobile {
+    display: block !important;
+  }
+  .top_div {
+    background-image: url("./assets/imagens/natalMobile.jpg");
+    height: 80vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+.box span {
+  width: 20px;
+  height: 20px;
+  display: block;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  transform: rotate(45deg);
+  margin: -10px;
+  animation: animate 2s infinite;
+}
+
+.box span:nth-child(2) {
+  animation-delay: -0.2s;
+}
+
+.box span:nth-child(3) {
+  animation-delay: -0.4s;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+    transform: rotate(45deg) translate(10px, 10px);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.events_mobile {
+  display: none;
+}
+
+.menu {
+  font-size: 1.5em;
+  padding-block: 2em;
+  font-weight: bold;
+  font-style: none;
+  color: white;
+  background-color: #102e4a;
+}
+
+li,
+ul {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #dcae27;
+}
+
+.nav-link:focus {
+  color: #dcae27;
+}
+
+.active {
+  color: #dcae27;
+}
+
+.active:hover {
+  color: #f7d264;
+}
+
+.active:focus {
+  color: #f7d264;
+}
+
+.mensagem-texto {
+  font-size: 1.2rem;
+}
+
+.ricardo-rio {
+  font-size: 1.5rem;
+  font-weight: bold;
 }

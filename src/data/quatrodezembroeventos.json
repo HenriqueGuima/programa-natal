@@ -1,0 +1,156 @@
+[
+    {
+        "id": "1",
+        "dia": "04",
+        "mes": "DEZ",
+        "titulo": "TEATRO “Duendes Congelados”, pelos Malad’arte",
+        "hora": "11h00 e 15h00",
+        "local": "MUSEU DOS BISCAINHOS",
+        "subtitulo": "",
+        "descricao": "Dois duendes viajam de cidade em cidade, por entre vales e montes, com o objetivo de realizarem uma missão apenas conhecida por eles. Pelo caminho encontram dificuldades, tais como o frio, a longevidade dos caminhos e até encontros indesejados.Um desses encontros marca a história destes duendes, entre trambolhões e confusões uma amizade de partilha cresce à medida que os corações se aquecem de carinho. Estes duendes saem da sua terra natal com a função de aquecer corações e essa missão não pode ficar por meios caminhos.",
+        "classificacaoEtaria": "M3",
+        "entrada": "entrada livre, sujeita à limitação do espaço",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "cincodezembro"
+    },
+    {
+        "id": "2",
+        "horavento": "",
+        "tituloPrincipal": "TITERETUM – Festival de Marionetas e Formas Animadas",
+        "localEvento": "",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "3",
+        "horavento": "11h00 e 15h00",
+        "tituloPrincipal": "",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "“Os Velocíclopes” pelos Fantoches Baj (Lalín)",
+        "descricaoEvento": "Os Velocíclopes são formados por cabeças motorizadas de aparência ambígua (podem ser vistos como sapatos gigantes, ciclopes, carros ...). As inúmeras possibilidades oferecidas pela motorização dos cabeçudos, manipulados por personagens palhaços, fazem-nos encontrar-nos perante um espetáculo surpreendente, ágil e altamente relacionado com o público. Velocíclopes é um espetáculo composto por vários quadros, “O proprietário”, “Ser ou não ser” e “Os bons modos”, onde através da utilização de uma linguagem plástica surrealista mostra o absurdo do comportamento humano nas situações da vida quotidiana (a fúria que surge quando nos colocamos ao volante, o senso de propriedade, a importância de aparecer socialmente...).",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "4",
+        "horavento": "15h30",
+        "tituloPrincipal": "PALCO BRAGA É NATAL",
+        "localEvento": "",
+        "subtituloEvento": "Grupo de Cavaquinhos e Cantares do Centro Histórico de Braga",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "5",
+        "horavento": "16h00",
+        "tituloPrincipal": "PALCO BRAGA É NATAL",
+        "localEvento": "",
+        "subtituloEvento": "Grupo de Cavaquinhos de Esporões",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "6",
+        "horavento": "16h00",
+        "tituloPrincipal": "",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "Ida e Volta",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "7",
+        "horavento": "16h30",
+        "tituloPrincipal": "",
+        "localEvento": "PALCO BRAGA É NATAL",
+        "subtituloEvento": "Grupo de Cavaquinhos e Concertinas de Parada de Tibães",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "8",
+        "horavento": "15h00 - 20h00",
+        "tituloPrincipal": "Árvore dos Sonhos de Natal dos Biscainhos",
+        "localEvento": "RUA DOS BISCAINHOS",
+        "subtituloEvento": "",
+        "descricaoEvento": "A rua dos Biscainhos encerrará ao trânsito para receber a Árvore dos Sonhos de Natal dos Biscainhos. Aqui serão colocados os “SONHOS” das crianças e jovens de instituições do Concelho de Braga que serão apadrinhados pelos bracarenses e posteriormente entregues nas respetivas instituições. Durante a tarde poderá assistir à elaboração de uma TABLETE DE CHOCOLATE GIGANTE que será animada pelo Grupo de Bombos do Novais entre outras atividades dinamizadas pelos comerciantes da rua em parceria com o Município de Braga e o Museu dos Biscainhos.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "9",
+        "horavento": "16h00",
+        "tituloPrincipal": "",
+        "localEvento": "",
+        "subtituloEvento": "Grupo de Danças e Cantares do Centro Cultural e Social Santo Adrião",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "10",
+        "horavento": "16h30",
+        "tituloPrincipal": "",
+        "localEvento": "",
+        "subtituloEvento": "Grupo de Cavaquinhos da Associação Antigos Alunos da Escola Industrial e Comercial de Braga",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "11",
+        "horavento": "",
+        "tituloPrincipal": "Ambiente Solidário",
+        "localEvento": "",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "12",
+        "horavento": "09h30 - 13h00",
+        "tituloPrincipal": "",
+        "localEvento": "AVENIDA CENTRAL",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "13",
+        "horavento": "14h00 - 17h30",
+        "tituloPrincipal": "",
+        "localEvento": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "14",
+        "horavento": "15h00 - 20h00",
+        "tituloPrincipal": "",
+        "localEvento": "RUA DOS BISCAINHOS",
+        "subtituloEvento": "",
+        "descricaoEvento": "Esta iniciativa solidária prevê a troca de um pinheiro natural por um bem alimentar essencial que será doado a quem mais precisa. Com o objetivo de sensibilizar para o abate indiscriminado e desordenado de árvores, nesta época.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "15",
+        "horavento": "19h30",
+        "tituloPrincipal": "Mesa na Praça – Mercado Municipal de Braga",
+        "localEvento": "",
+        "subtituloEvento": "CONCERTO, por SINCOPADO BOSSA NOVA in Concerto Natalino",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    }
+]

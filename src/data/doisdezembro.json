@@ -1,0 +1,18 @@
+[
+    {
+        "id": "3",
+        "dia": "02",
+        "mes": "DEZ",
+        "titulo": "CICLO DE CINEMA – \"O dia mais curto\"",
+        "associacoes": "pelo CINECLUBE AURÉLIO DA PAZ DOS REIS ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "hora": "15h00",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Curtas do Mundo | Sessão Maior",
+        "descricao": "Esta sessão reúne curtas-metragens de vários pontos do mundo e diferentes visões da sociedade contemporânea. “We Have One Heart”, “A Questo Punto” e “O Rei David”, três obras que oferecem um olhar astuto sobre problemáticas atuais que ultrapassam fronteiras.",
+        "duracao": "78MIN",
+        "classificacaoEtaria": "M12",
+        "entrada": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "doisdezembro"
+    }
+]

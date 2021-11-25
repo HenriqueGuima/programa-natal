@@ -1,0 +1,133 @@
+[
+    {
+        "id": "1",
+        "dia": "08",
+        "mes": "DEZ",
+        "titulo": "Ambiente Solidário",
+        "hora": "09h30 – 12h30 e 14h00 – 17h30",
+        "local": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    },
+    {
+        "id": "2",
+        "horavento": "09h30 - 12h30 e 14h00 - 17h30",
+        "tituloPrincipal": "Ambiente Solidário",
+        "localEvento": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "3",
+        "horavento": "11h00",
+        "tituloPrincipal": "",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "“Soldadinhos de chumbo”, pelo Grupo de Percussão da Equipa Espiral",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "4",
+        "horavento": "18h00",
+        "tituloPrincipal": "",
+        "localEvento": "PELAS RUAS DO CENTRO HISTÓRICO",
+        "subtituloEvento": "Bomboémia",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "5",
+        "horavento": "",
+        "tituloPrincipal": "Natal na Freguesia",
+        "localEvento": "",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "6",
+        "horavento": "15h00",
+        "tituloPrincipal": "",
+        "localEvento": " AUDITÓRIO DA JUNTA DE FREGUESIA DE VIMIEIRO",
+        "subtituloEvento": "CAUM – Coro Académico da Universidade do Minho",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": "ENTRADA LIVRE, SUJEITA À LIMITAÇÃO DO ESPAÇO"
+    },
+    {
+        "id": "7",
+        "horavento": "19h30",
+        "tituloPrincipal": "Mesa na Praça – Mercado Municipal de Braga",
+        "localEvento": " ",
+        "subtituloEvento": "CONCERTO, por Pedro Melo",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "8",
+        "horavento": "",
+        "tituloPrincipal": "Palco Braga é Natal",
+        "localEvento": " ",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "9",
+        "horavento": "11h30",
+        "tituloPrincipal": "",
+        "localEvento": " ",
+        "subtituloEvento": "ESPETÁCULO DE DANÇA, pela NEED Cooperativa",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "10",
+        "horavento": "15h00",
+        "tituloPrincipal": "",
+        "localEvento": " ",
+        "subtituloEvento": "TEATRO “Uma Capuchinho e os Três Porquinhos no era uma vez…”, pelo Tin.Bra",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "11",
+        "horavento": "16h00",
+        "tituloPrincipal": "",
+        "localEvento": " ",
+        "subtituloEvento": "CONCERTO “É Tempo de Natal”, pela Cooperativa de Ensino Artístico e ACIJE",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "12",
+        "horavento": "17h30",
+        "tituloPrincipal": "",
+        "localEvento": " ",
+        "subtituloEvento": "Espetáculo de Dança, pela Ent’artes",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    }
+]
