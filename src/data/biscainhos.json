@@ -1,0 +1,52 @@
+[
+    {
+        "id": "5",
+        "dia": "04",
+        "mes": "DEZ",
+        "titulo": "TEATRO “Duendes Congelados”, pelos Malad’arte",
+        "hora": "11h00 e 15h00",
+        "local": "MUSEU DOS BISCAINHOS",
+        "subtitulo": "",
+        "descricao": "Dois duendes viajam de cidade em cidade, por entre vales e montes, com o objetivo de realizarem uma missão apenas conhecida por eles. Pelo caminho encontram dificuldades, tais como o frio, a longevidade dos caminhos e até encontros indesejados.Um desses encontros marca a história destes duendes, entre trambolhões e confusões uma amizade de partilha cresce à medida que os corações se aquecem de carinho. Estes duendes saem da sua terra natal com a função de aquecer corações e essa missão não pode ficar por meios caminhos.",
+        "classificacaoEtaria": "M3",
+        "entrada": "entrada livre, sujeita à limitação do espaço",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "cincodezembro"
+    },
+    {
+        "id": "8",
+        "hora": "15h00 - 20h00",
+        "titulo": "Árvore dos Sonhos de Natal dos Biscainhos",
+        "local": "RUA DOS BISCAINHOS",
+        "subtituloEvento": "",
+        "descricao": "A rua dos Biscainhos encerrará ao trânsito para receber a Árvore dos Sonhos de Natal dos Biscainhos. Aqui serão colocados os “SONHOS” das crianças e jovens de instituições do Concelho de Braga que serão apadrinhados pelos bracarenses e posteriormente entregues nas respetivas instituições. Durante a tarde poderá assistir à elaboração de uma TABLETE DE CHOCOLATE GIGANTE que será animada pelo Grupo de Bombos do Novais entre outras atividades dinamizadas pelos comerciantes da rua em parceria com o Município de Braga e o Museu dos Biscainhos.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "6",
+        "dia": "05",
+        "mes": "DEZ",
+        "titulo": "TEATRO “Duendes Congelados”, pelos Malad’arte",
+        "hora": "11h00 e 15h00",
+        "local": "MUSEU DOS BISCAINHOS",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": "",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "seisdezembro"
+    },
+    {
+        "id": "1",
+        "dia": "3 A 5 DE DEZEMBRO",
+        "mes": "",
+        "titulo": "TÊPLUQUÊ - Festival da Palavra de Braga",
+        "hora": "",
+        "local": "",
+        "subtitulo": "",
+        "descricao": "Com o mês de dezembro chega mais uma edição do Têpluquê, cheia de palavras extraordinárias que nos prometem encher a alma, adoçar a boca e cantar ao ouvido. Edifício do Castelo, Mercado Municipal de Braga e Museu dos Biscainhos são alguns dos espaços que irão acolher a última edição deste festival de celebração da palavra! | Programa: Apresentações de Livros | Conversas |Cinema de Animação, Música, Poesia e Teatro | Exposições de Ilustração (patentes até 31 de dezembro) | Intervenção Comunitária de Palavra e Ilustração | Horas de Conto | Mini Porto Belo edição especial Braga | Oficinas | Plano de Palavras Extraordinárias",
+        "classificacaoEtaria": "",
+        "entrada": ""
+    }
+]

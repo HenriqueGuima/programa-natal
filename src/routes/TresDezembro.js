@@ -21,7 +21,7 @@ export default function TresDezembro() {
                       {evento.dia}{" "}
                       <span style={{ fontWeight: "900" }}>{evento.mes}</span>
                     </h1>
-                    <h1 className="titulo_evento">{evento.titulo}</h1>
+                    <h1 className="titulo_evento mt-2">{evento.titulo}</h1>
                     <div className="mt-2"></div>
                     <span className="hora_evento">{evento.hora}</span>
                     <span className="local_evento">{evento.local}</span>

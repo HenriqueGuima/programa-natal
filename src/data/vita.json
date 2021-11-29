@@ -1,0 +1,71 @@
+[
+    {
+        "id": "4",
+        "hora": "21h30",
+        "dia": "07",
+        "mes": "DEZ",
+        "titulo": "“Christmas Soul”, pela Academia Souldancers",
+        "local": "ESPAÇO VITA",
+        "subtitutlo": "",
+        "descricao": "Este Natal iremos apresentar coreografias de dança que permitirão explorar a consciência corporal dos dançarinos e dançarinas da academia. Num ambiente pós pandemia, todos reaprendem a mover-se e a exprimir-se aos diferentes ritmos apresentados. Mostra de trabalhos realizados com a alegria, brilho e entusiasmo característicos da época natalícia.",
+        "duracao": "",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    },
+    {
+        "id": "2",
+        "titulo": "“Clássicos de Natal” pela Orquestra Filarmónica de Braga",
+        "hora": "21h30",
+        "dia": "11",
+        "mes": "DEZ",
+        "por": "",
+        "local": "ESPAÇO VITA",
+        "subtitulo": "A Orquestra Filarmónica de Braga apresenta o concerto “Clássicos de Natal”.",
+        "descricao": "Um concerto onde serão interpretados pela Orquestra os mais lindos e conhecidos temas de Natal celebrando assim este período de confraternização, amizade e partilha. Uma viagem pela música de Natal com temas instrumentais e/ou acompanhados por lindas vozes solistas que nos irão envolver no espírito natalício. Um concerto muito bonito para assistir em família. A direcção musical estará ao cargo do maestro bracarense Filipe Cunha.",
+        "duracao": "",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    },
+    {
+        "id": "2",
+        "titulo": "“Natal Tradicional” por Origem Tradicional",
+        "hora": "18h00",
+        "dia": "19",
+        "mes": "DEZ",
+        "por": "",
+        "local": "ESPAÇO VITA",
+        "subtitulo": "",
+        "descricao": "“Natal Tradicional” é o espetáculo que vem no seguimento do álbum homónimo do grupo ORIGEM TRADICIONAL - lançado há precisamente 1 ano atrás. Por norma o trabalho do Origem é focado nas novas criações próprias e, ainda com mais relevância, no cancioneiro minhoto, com novos arranjos e abordagens. Neste caso, e com a parceria nos últimos anos com o Município de Braga nas atividades de Natal, o grupo bracarense que conta já com 43 anos de atividade ininterrupta pela música tradicional, foi criando arranjos e repertório que concentrou nesta pequena “volta a Portugal em canções tradicionais de Natal e de Reis”, com canções de praticamente todas as regiões.",
+        "duracao": "",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    },
+    {
+        "id": "2",
+        "titulo": "“Bracara Team Christmas Show” pela Bracara Team",
+        "hora": "21h00",
+        "dia": "22",
+        "mes": "DEZ",
+        "por": "",
+        "local": " ESPAÇO VITA",
+        "subtitulo": "",
+        "descricao": "Neste espetáculo irão desenrolar-se várias atuações de dança sob o tema Natal, incluindo diferentes estilos de dança, nomeadamente, danças de salão, ballet, danças urbanas, dança comercial, breaking, k-pop, danças afro-latinas, dança contemporânea e jazz. O espetáculo envolverá participantes de todas as idades, incluindo crianças a partir dos 3 anos, jovens, adultos e seniores.",
+        "duracao": "",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE SUJEITA A LEVANTAMENTO DE BILHETE"
+    },
+    {
+        "id": "2",
+        "titulo": "“Gala de Ano Novo”, pela Ent’artes",
+        "hora": "21h00",
+        "dia": "22",
+        "mes": "JAN",
+        "por": "",
+        "local": "ESPAÇO VITA",
+        "subtitulo": "",
+        "descricao": "No âmbito dos 650 anos da Aliança Luso Britânica surge, pela Ent’Artes-Escola de Dança, a Gala de Ano Novo. Sobem a palco trabalhos de clássico, nomeadamente de pas de deux, e peças contemporâneas e de jazz.",
+        "duracao": "DURAÇÃO: 120 MIN. | M/3",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    }
+]

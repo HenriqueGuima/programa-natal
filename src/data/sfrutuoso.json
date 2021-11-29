@@ -1,0 +1,111 @@
+[
+    {
+        "id": "2",
+        "dia": "01",
+        "mes": "DEZ",
+        "titulo": "CICLO DE CINEMA – \"O dia mais curto\"",
+        "por": "pelo CINECLUBE AURÉLIO DA PAZ DOS REIS",
+        "entrada": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "hora": "10h30",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Sessão Amiguinhos | Sessão Família",
+        "descricao": "Este ano na Sessão Amiguinhos iremos ver 6 curtas-metragens de vários países europeus a pensar nos mais pequenos. Uma sessão para maiores de 3 anos proposta pelo ‘Short Circuit’, uma rede europeia de organismos que se dedicam à promoção e divulgação de curtas metragens.",
+        "duracao": "DURAÇÃO: 44MIN",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA:M3"
+    },
+    {
+        "id": "3",
+        "hora": "15h00",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Curtinhas para todos | Sessão Família",
+        "descricao": "Esta programação parte dos filmes premiados na mais recente edição do ‘Curtas Vila do Conde’ e mostra-nos que, tal como a imaginação, também o cinema de animação não tem limites. Preparem-se para conhecer novos mundos com muita animação, diversão e aventuras.",
+        "duracao": "DURAÇÃO: 56MIN",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA:M6"
+    },
+    {
+        "id": "2",
+        "hora": "15h00",
+        "dia": "02",
+        "mes": "DEZ",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Curtas do Mundo | Sessão Maior",
+        "descricao": "Esta sessão reúne curtas-metragens de vários pontos do mundo e diferentes visões da sociedade contemporânea. \"We Have One Heart\", \"A Questo Punto\" e \"O Rei David\", três obras que oferecem um olhar astuto sobre problemáticas atuais que ultrapassam fronteiras.",
+        "duracao": "DURAÇÃO: 78MIN",
+        "classificacaoEtaria": "CLASSIFICAÇÃO ETÁRIA:M12"
+    },
+    {
+        "id": "1",
+        "dia": "03",
+        "mes": "DEZ",
+        "titulo": "CICLO DE CINEMA – “O dia mais curto” pelo CINECLUBE AURÉLIO DA PAZ DOS REIS",
+        "hora": "15h00",
+        "local": "AUDITÓRIO S. FRUTUOSO",
+        "subtitulo": "Novas Curtas Portuguesas | Sessão Maior",
+        "descricao": "Ao longo dos últimos anos, a curta-metragem portuguesa tem visto reconhecida a sua qualidade em festivais de cinema de todo o mundo. Uma seleção de obras construídas em Portugal, que percorre todos os géneros cinematográficos e promete não deixar ninguém indiferente",
+        "duracao": "72MIN",
+        "classificacaoEtaria": "M12",
+        "entrada": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA",
+        "imagem": "../assets/imagens/Imagem_01.jpg",
+        "href": "tresdezembro"
+    },
+    {
+        "id": "1",
+        "dia": "20 A 23 DEZEMBRO",
+        "mes": "",
+        "titulo": "“Animatographo – Contos de Natal” pela CONFEDERAÇÃO – Coletivo de Investigação Teatral",
+        "hora": "10h30",
+        "local": "Auditório S. Frutuoso",
+        "subtitulo": "",
+        "descricao": "",
+        "classificacaoEtaria": "",
+        "entrada": ""
+    },
+    {
+        "id": "1",
+        "dia": "20 DEZEMBRO",
+        "mes": "",
+        "titulo": "",
+        "hora": "",
+        "local": "",
+        "subtitulo": "O Natal do Burrinho e Outros Contos | Sessão Escola",
+        "descricao": "Curtas-Metragens",
+        "classificacaoEtaria": "DURAÇÃO: 67MIN | CLASSIFICAÇÃO ETÁRIA: M6 | PÚBLICO-ALVO: ATL’S E ASSOCIAÇÕES | SESSÃO FALADA E/OU LEGENDADA EM PORTUGUÊS",
+        "entrada": ""
+    },
+    {
+        "id": "1",
+        "dia": "21 DEZEMBRO",
+        "mes": "",
+        "titulo": "",
+        "hora": "",
+        "local": "",
+        "subtitulo": "A Oficina do Pai Natal e Outros Contos | Sessão Escola",
+        "descricao": "Curtas-Metragens",
+        "classificacaoEtaria": "DURAÇÃO: 55MIN | CLASSIFICAÇÃO ETÁRIA: M6 | PÚBLICO-ALVO: ATL’S E ASSOCIAÇÕES | SESSÃO FALADA E/OU LEGENDADA EM PORTUGUÊS",
+        "entrada": ""
+    },
+    {
+        "id": "1",
+        "dia": "22 DEZEMBRO",
+        "mes": "",
+        "titulo": "",
+        "hora": "",
+        "local": "",
+        "subtitulo": "A Noite Antes do Natal e Outros Contos | Sessão Escola",
+        "descricao": "Curtas-Metragens",
+        "classificacaoEtaria": "DURAÇÃO: 58MIN | CLASSIFICAÇÃO ETÁRIA: M6 | PÚBLICO-ALVO: ATL’S E ASSOCIAÇÕES | SESSÃO FALADA E/OU LEGENDADA EM PORTUGUÊS",
+        "entrada": ""
+    },
+    {
+        "id": "1",
+        "dia": "23 DEZEMBRO",
+        "mes": "",
+        "titulo": "",
+        "hora": "",
+        "local": "",
+        "subtitulo": "Raposa Manhosa e Outras Histórias, de Patrick Imbert e Benjamin Renner | Sessão Escola",
+        "descricao": "Franco-Belga, 2017, Animação",
+        "classificacaoEtaria": "DURAÇÃO: 83MIN | CLASSIFICAÇÃO ETÁRIA: M/6 | PÚBLICO-ALVO: ATL’S E ASSOCIAÇÕES | SESSÃO FALADA EM PORTUGUÊS",
+        "entrada": ""
+    }
+]

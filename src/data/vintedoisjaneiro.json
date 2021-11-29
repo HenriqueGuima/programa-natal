@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2",
+        "titulo": "“Gala de Ano Novo”, pela Ent’artes",
+        "horavento": "21h00",
+        "dia": "22",
+        "mes": "JAN",
+        "por": "",
+        "localEvento": "ESPAÇO VITA",
+        "subtituloEvento": "",
+        "descricaoEvento": "No âmbito dos 650 anos da Aliança Luso Britânica surge, pela Ent’Artes-Escola de Dança, a Gala de Ano Novo. Sobem a palco trabalhos de clássico, nomeadamente de pas de deux, e peças contemporâneas e de jazz.",
+        "duracaoEvento": "DURAÇÃO: 120 MIN. | M/3",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A LEVANTAMENTO DE BILHETE"
+    },
+    {
+        "id": "2",
+        "titulo": "Quarteto de Cordas de Matosinhos e Conservatório de Música Bomfim",
+        "horavento": "21h00",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": " AUDITÓRIO JOSÉ SARMENTO - MERCADO CULTURAL DO CARANDÁ, CONSERVATÓRIO BOMFIM",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA À LIMITAÇÃO DO ESPAÇO"
+    }
+]

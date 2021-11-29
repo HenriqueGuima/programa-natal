@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "hora": "18h00",
+        "dia": "07",
+        "mes": "DEZ",
+        "titulo": "“O Baile dos Candeeiros”, por Radar 360",
+        "local": "LARGO DO PAÇO",
+        "subtitulo": "",
+        "descricao": "Todos nós temos um universo mágico que carregamos da nossa infância. Candeeiros humanos, autónomos, espalhados por pontos estratégicos, transformam os espaços que habitam, e deslocam-se através deles com movimentos específicos: acendem, apagam, respiram, interagem... Com este trabalho, a companhia RADAR 360º, quer reforçar o ato criativo no universo das artes de rua, apostando numa intervenção não convencional, com fortes contornos plásticos e características multidisciplinares. Explora o conceito de instalação e associa a composição coreográfica de movimento dos corpos no espaço, á luz como cenário visual vivo.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "2",
+        "titulo": "ESPETÁCULO “Candore”, pela Kandengue Arts",
+        "hora": "",
+        "dia": "18",
+        "mes": "DEZ",
+        "por": "",
+        "local": "AVENIDA CENTRAL",
+        "subtitulo": "",
+        "descricao": "No final da Parada de Natal",
+        "duracao": "",
+        "classificacaoEtaria": "",
+        "entrada": ""
+    }
+]

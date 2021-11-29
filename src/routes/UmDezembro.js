@@ -21,7 +21,7 @@ export default function UmDezembro() {
                       {evento.dia}{" "}
                       <span style={{ fontWeight: "900" }}>{evento.mes}</span>
                     </h1>
-                    <h1 className="titulo_evento">{evento.titulo}</h1>
+                    <h1 className="titulo_evento mt-2">{evento.titulo}</h1>
                     <span className="descricao_evento">
                       {evento.associacoes}
                     </span>

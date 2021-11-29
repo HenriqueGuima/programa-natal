@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2",
+        "titulo": "Mesa na Praça – Mercado Municipal de Braga",
+        "horavento": "07h30",
+        "dia": "06",
+        "mes": "JAN",
+        "por": "",
+        "localEvento": "",
+        "subtituloEvento": "CONCERTO “Concerto de Reis” pelo Grupo Os Sinos da Sé",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "2",
+        "titulo": "CICLO DE ADVENTO E NATAL – “Viagem de Inverno”",
+        "horavento": "19h00",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": " SALÃO MEDIEVAL DA REITORIA DA UNIVERSIDADE DO MINHO, LARGO DOPAÇO",
+        "subtituloEvento": "“Improvisação”, por José Diogo Dias Martins",
+        "descricaoEvento": "José Diogo nasceu em 1993, em Braga. Frequentou o conservatório da sua cidade, terminando a disciplina de piano com classificação máxima. Estudou depois na Escola Superior de Música de Lisboa e no Rytmisk Musikkonservatorium, em Copenhaga. Compôs duas óperas: THEATRO — um ensaio geral (2016), comemorativa do centenário do Theatro Circo de Braga, e Precisas de Falar? (2018). Tem colaborado com Demian Cabaud, Marcos Cavaleiro, Mané Fernandes, Frederico Heliodoro, Simon Albertsen, Ricardo Coelho, João Mortágua, Pedro Melo Alves, José Soares, Hugo Antunes e Emmy Curl, entre outros. Tem participação fonográfica em Pedro Melo Alves’ Omniae Ensemble, Empa de Miguel Rodrigues e Jazz in the Space Age — enquanto solista convidado da Orquestra Jazz de Matosinhos a par de João Paulo Esteves da Silva.",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA À LIMITAÇÃO DO ESPAÇO"
+    }
+]

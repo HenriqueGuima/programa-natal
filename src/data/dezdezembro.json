@@ -1,0 +1,72 @@
+[
+    {
+        "id": "2",
+        "titulo": "",
+        "horavento": "",
+        "dia": "10",
+        "mes": "DEZ",
+        "por": "",
+        "entrada": "",
+        "localEvento": "",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "2",
+        "titulo": "Ambiente Solidário",
+        "horavento": "09h30 - 12h30 e 14h00 - 17h30",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "entrada": "",
+        "localEvento": "QUINTA PEDAGÓGICA DE BRAGA",
+        "subtituloEvento": "",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": ""
+    },
+    {
+        "id": "2",
+        "titulo": "Natal na Freguesia",
+        "horavento": "21h00",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": "AUDITÓRIO DA JUNTA DE FREGUESIA DE LAMAS",
+        "subtituloEvento": "“Falatório Muito Certo e Verdadeiro de um Artista Reformado”, pela Nova Comédia Bracarense",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": "ENTRADA LIVRE, SUJEITA À LIMITAÇÃO DO ESPAÇO"
+    },
+    {
+        "id": "2",
+        "titulo": "Mesa na Praça - Mercado Municipal de Braga",
+        "horavento": "19h30",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": "",
+        "subtituloEvento": "CONCERTO, por Isabel Pereira",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
+    },
+    {
+        "id": "2",
+        "titulo": "TITERETUM – Festival de Marionetas e Formas Animadas",
+        "horavento": "10h00 / 14h30",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": " AUDITÓRIO DO CENTRO DE JUVENTUDE DE BRAGA",
+        "subtituloEvento": "“A Caixa de Nove Lados” pelo Historioscópio",
+        "descricaoEvento": "“A velha sabia que as duas piores coisas que há no mundo são as que se fazem por medo e as que o medo nos obriga a deixar de fazer.” Como já devem ter percebido depois de ler a citação anterior, esta história é sobre agulhas preguiçosas, que mordem dedos, um dedal mágico que desaparece misteriosamente, uma caixa com nove lados, um novelo de lã, que não é apenas um novelo de lã, uma fita métrica tétrica que come moscas, uma velha que, sem querer, põe o pé no buraco de uma agulha, um monstro terrível que faz maldades horríveis, qualquer coisa sobre pirâmides e um duende cowboy ensarilhado. “A Caixa de Nove Lados”, mostra-nos um mundo mágico, escondido dentro duma velha caixa de costura. Um conjunto de criaturas estranhas e singulares levam-nos a enfrentar os medos através do poder das histórias. E da música. Também há música!",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "CLASSIFICAÇÃO ETÁRIA: M6",
+        "entrada": "ENTRADA LIVRE, SUJEITA A INSCRIÇÃO ATRAVÉS DO EVENTBRITE DO MUNICÍPIO DE BRAGA"
+    }
+]

@@ -12,5 +12,19 @@
         "entrada": "",
         "imagem": "../assets/imagens/Imagem_01.jpg",
         "href": "seisdezembro"
+    },
+    {
+        "id": "2",
+        "titulo": "",
+        "horavento": "18h00",
+        "dia": "",
+        "mes": "",
+        "por": "",
+        "localEvento": "PALCO BRAGA É NATAL",
+        "subtituloEvento": "Gatuna",
+        "descricaoEvento": "",
+        "duracaoEvento": "",
+        "classificacaoEtariaEvento": "",
+        "entrada": ""
     }
 ]

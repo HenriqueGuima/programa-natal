@@ -140,6 +140,8 @@ select {
 
 .top_container {
   background-color: #102e4a;
+  background-image: url("./assets/imagens/estrelas.png");
+  background-size: contain;
   text-align: justify;
 }
 
@@ -148,10 +150,11 @@ select {
 }
 
 .top_div {
-  background-image: url("./assets/imagens/capa2.jpg");
+  background-image: url("./assets/imagens/compressed/capa2.jpg");
   height: 60vh;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .evento-dia {
@@ -180,6 +183,13 @@ select {
   transition: all 0.5s;
   height: 300px;
   border: 2px dashed #0f1820;
+  transform-origin: left;
+  transition: all 0.5s ease-in-out;
+}
+
+.evento-dia-calendario:hover {
+  /* transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px)
+    rotateY(-105deg); */
 }
 
 a:hover {
@@ -189,10 +199,13 @@ a:hover {
 a {
   text-decoration: none;
   color: unset;
+  transition: 0.3s all ease-in-out;
 }
 
 .events_section {
   background-color: #102e4a;
+  background-image: url("./assets/imagens/estrelas.png");
+  background-size: contain;
   color: white;
 }
 
@@ -205,6 +218,13 @@ a {
   font-size: 2rem;
   color: #dcae27;
   font-weight: 900;
+}
+
+.titulo_evento_preto {
+  text-align: -webkit-left;
+  font-size: 3rem;
+  color: #000000;
+  font-weight: lighter;
 }
 
 .hora_evento {
@@ -251,6 +271,8 @@ a {
 
 .page-footer-event {
   background-color: #102e4a;
+  background-image: url("./assets/imagens/estrelas.png");
+  background-size: cover;
   color: white;
 }
 
@@ -263,6 +285,10 @@ a {
   }
 }
 
+.filtros {
+  background-color: #102e4a;
+}
+
 @media (min-width: 1440px) {
   .top_div {
     background-image: url("./assets/imagens/capa2.jpg");
@@ -270,6 +296,16 @@ a {
     background-size: contain;
     background-repeat: no-repeat;
   }
+}
+
+.btn-primary {
+  background-color: unset !important;
+  border-color: white !important;
+}
+
+.btn-primary:focus {
+  border-color: #dcae27 !important;
+  box-shadow: unset !important;
 }
 
 @media (max-width: 500px) {
@@ -386,4 +422,164 @@ ul {
 .ricardo-rio {
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+/* ###### ADVENT CALENDAR ###### */
+
+@keyframes shake {
+  0% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(-20deg);
+  }
+  40% {
+    transform: rotate(20deg);
+  }
+  60% {
+    transform: rotate(-10deg);
+  }
+  80% {
+    transform: rotate(10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .present {
+    width: 250px !important;
+    height: 190px !important;
+  }
+  .present_img {
+    object-fit: cover;
+    width: 250px !important;
+    height: 190px !important;
+    /* border: 1px solid #0f1820; */
+    border-radius: 25px;
+  }
+}
+
+.elementDiv {
+  position: relative;
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  margin: 0.5em;
+  perspective: 850px;
+  z-index: 666;
+  transition: 1s all ease-in-out;
+}
+
+.present {
+  position: relative;
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  margin: 0.5em;
+  perspective: 850px;
+  z-index: 666;
+  transition: 1s all ease-in-out;
+}
+
+.present__pane,
+.present__content {
+  width: inherit;
+  height: inherit;
+}
+.present__pane {
+  position: relative;
+  background-color: #102e4a96;
+  transform-style: preserve-3d;
+  transform-origin: 0;
+  perspective: 850px;
+  text-align: center;
+  box-shadow: 2px 1px 4px 0px rgb(0 0 0 / 15%);
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+  border: 2px dashed #0f1820;
+  border-radius: 25px;
+}
+
+.present__pane:hover {
+  /* background-color: #102e4a; */
+  background-color: #102e4a4b;
+  color: #dcae27 !important;
+}
+
+.present_img {
+  object-fit: cover;
+  width: 400px;
+  height: 300px;
+  /* border: 1px solid #0f1820; */
+  border-radius: 25px;
+}
+.present__date {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  color: white;
+}
+.present:hover {
+  /* z-index: 999; */
+}
+.present:hover .present__pane {
+  /* background-color: #102e4a; */
+  /* transform: rotateY(-97deg); */
+  /* perspective-origin: 0; */
+  /* transition: all 0.4s ease-in-out;
+  border: 1px solid #0f1820;
+  box-shadow: unset; */
+}
+.present:hover .present__date {
+  backface-visibility: hidden;
+}
+.present:hover .present__bauble {
+  display: inline-block;
+  transform-origin: 50% 0;
+  animation: shake 0.7s;
+}
+.present__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #102e4a;
+  /* box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.15),
+    inset 0 0 30px 20px rgba(0, 0, 0, 0.15); */
+  z-index: -1;
+}
+.present__bauble {
+  position: relative;
+  width: 2.6666666667em;
+  height: 2.6666666667em;
+  background: #102e4a;
+  margin: 25% auto 0 auto;
+  font-size: 2.6666666667em;
+  line-height: 2.6666666667em;
+  border-radius: 50%;
+}
+.present__bauble::after {
+  content: "";
+  position: absolute;
+  top: -5%;
+  left: 50%;
+  width: 30%;
+  height: 10%;
+  margin-left: -15%;
+  background: inherit;
+}
+.present__bauble::before {
+  content: "";
+  position: absolute;
+  top: -15%;
+  left: 50%;
+  width: 12%;
+  height: 20%;
+  margin-left: -12%;
+  border: 0.35rem solid Violet;
+  border-radius: 50%;
+  z-index: 0;
 }

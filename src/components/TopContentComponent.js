@@ -6,6 +6,7 @@ export default function TopContentComponent() {
     <div>
       {/* ##### INTRODUCTION ##### */}
       <section className="top_container">
+        <div className="pt-2"></div>
         <div class="container top_div">
           {/* <img src={natalfinal} alt="" /> */}
         </div>

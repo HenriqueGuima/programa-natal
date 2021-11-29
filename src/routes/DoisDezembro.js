@@ -3,7 +3,6 @@ import HeaderComponent from "../components/HeaderComponent";
 import data from "../data/doisdezembro.json";
 import imagem from "../assets/imagens/Imagem_06.png";
 import FooterEventComponent from "../components/FooterEventComponent";
-import dataEvents from "../data/doisdezembroeventos.json";
 import HeaderEventComponent from "../components/HeaderEventComponent";
 
 export default function DoisDezembro() {
@@ -21,7 +20,7 @@ export default function DoisDezembro() {
                       {evento.dia}{" "}
                       <span style={{ fontWeight: "900" }}>{evento.mes}</span>
                     </h1>
-                    <h1 className="titulo_evento">{evento.titulo}</h1>
+                    <h1 className="titulo_evento mt-2">{evento.titulo}</h1>
                     <div className="mt-2"></div>
                     <span className="hora_evento">{evento.hora}</span>
                     <span className="local_evento">{evento.local}</span>
@@ -53,33 +52,6 @@ export default function DoisDezembro() {
 
                   <div class="row evento-dia m-2">
                     <img src={imagem}></img>
-                  </div>
-                </React.Fragment>
-              );
-            })}
-
-            {dataEvents.map((evento) => {
-              return (
-                <React.Fragment>
-                  <div className="mt-4"></div>
-
-                  <div className="row evento-dia m-2" key={evento}>
-                    <h1 className="titulo_evento">{evento.tituloprincipal}</h1>
-                    <span className="descricao_evento">{evento.por}</span>
-                    <span className="classificacao_etaria_evento">
-                      {evento.entradaDiaMaisCurto}
-                    </span>
-                    <div className="mt-4"></div>
-                    <span className="hora_evento">{evento.horavento}</span>
-                    <span className="local_evento">{evento.localEvento}</span>
-                    <h1 className="titulo_evento">{evento.tituloevento}</h1>
-                    <div className="mt-2"></div>
-                    <span className="subtitulo_evento">
-                      {evento.subtituloEvento}
-                    </span>
-                    <span className="descricao_evento">
-                      {evento.descricaoEvento}
-                    </span>
                   </div>
                 </React.Fragment>
               );
