@@ -1,4 +1,6 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
+
 import { useVisibilityHook } from "react-observer-api";
 
 export default function CalendarComponent() {
@@ -13,7 +15,7 @@ export default function CalendarComponent() {
     <React.Fragment>
       <div class="container">
         <div className="pt-5"></div>
-        <a href="/vintesetenovembro">
+        <Link to="/vintesetenovembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -31,8 +33,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/umdezembro">
+        </Link>
+        <Link to="/umdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -50,8 +52,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>{" "}
-        <a href="/doisdezembro">
+        </Link>{" "}
+        <Link to="/doisdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -69,8 +71,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/tresdezembro">
+        </Link>
+        <Link to="/tresdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -88,8 +90,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/quatrodezembro">
+        </Link>
+        <Link to="/quatrodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -107,8 +109,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/cincodezembro">
+        </Link>
+        <Link to="/cincodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -126,8 +128,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/seisdezembro">
+        </Link>
+        <Link to="/seisdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -145,8 +147,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/setedezembro">
+        </Link>
+        <Link to="/setedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -164,8 +166,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/oitodezembro">
+        </Link>
+        <Link to="/oitodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -183,8 +185,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/novedezembro">
+        </Link>
+        <Link to="/novedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -202,8 +204,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dezdezembro">
+        </Link>
+        <Link to="/dezdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -221,8 +223,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/onzedezembro">
+        </Link>
+        <Link to="/onzedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -240,8 +242,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dozedezembro">
+        </Link>
+        <Link to="/dozedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -259,8 +261,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/trezedezembro">
+        </Link>
+        <Link to="/trezedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -278,8 +280,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/catorzedezembro">
+        </Link>
+        <Link to="/catorzedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -297,8 +299,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/quinzedezembro">
+        </Link>
+        <Link to="/quinzedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -316,8 +318,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dezasseisdezembro">
+        </Link>
+        <Link to="/dezasseisdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -335,8 +337,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dezassetedezembro">
+        </Link>
+        <Link to="/dezassetedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -354,8 +356,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dezoitodezembro">
+        </Link>
+        <Link to="/dezoitodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -373,8 +375,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/dezanovedezembro">
+        </Link>
+        <Link to="/dezanovedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -392,8 +394,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vintedezembro">
+        </Link>
+        <Link to="/vintedezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -411,8 +413,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vinteumdezembro">
+        </Link>
+        <Link to="/vinteumdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -430,8 +432,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vintedoisdezembro">
+        </Link>
+        <Link to="/vintedoisdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -449,8 +451,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vintetresdezembro">
+        </Link>
+        <Link to="/vintetresdezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -468,8 +470,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vintequatrodezembro">
+        </Link>
+        <Link to="/vintequatrodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -487,8 +489,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/doisjaneiro">
+        </Link>
+        <Link to="/doisjaneiro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -506,8 +508,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/seisjaneiro">
+        </Link>
+        <Link to="/seisjaneiro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -525,8 +527,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/oitojaneiro">
+        </Link>
+        <Link to="/oitojaneiro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -544,8 +546,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/novejaneiro">
+        </Link>
+        <Link to="/novejaneiro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -563,8 +565,8 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
-        <a href="/vintedoisjaneiro">
+        </Link>
+        <Link to="/vintedoisjaneiro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -582,7 +584,7 @@ export default function CalendarComponent() {
               ></img>
             </div>
           </article>
-        </a>
+        </Link>
       </div>
     </React.Fragment>
   );
