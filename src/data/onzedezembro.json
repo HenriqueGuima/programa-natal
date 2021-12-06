@@ -169,20 +169,6 @@
     },
     {
         "id": "2",
-        "titulo": "Fogueira de Natal",
-        "horavento": "18h00 – 20h00",
-        "dia": "",
-        "mes": "",
-        "por": "",
-        "localEvento": "MERCADO MUNICIPAL DE BRAGA",
-        "subtituloEvento": "Colaboração: Associação Cultural e Festiva “Os Sinos da Sé”",
-        "descricaoEvento": "“Pensemos então a cidade como nossa casa e acendamos a lareira, com a intenção simbólica de celebrarmos memórias solidárias sempre anuais.” A Fogueira de Natal procura recriar uma tradição natalícia de queimar o trepo, ou o madeiro, que por necessidade de preservação cultural, por tradição, por dever religioso ou por um encantamento humano, procura transformar o fogo em ideia luminosa de aquecer o Menino.",
-        "duracaoEvento": "",
-        "classificacaoEtariaEvento": "",
-        "entrada": ""
-    },
-    {
-        "id": "2",
         "titulo": "",
         "horavento": "18h00",
         "dia": "",
@@ -233,20 +219,6 @@
         "localEvento": "",
         "subtituloEvento": "Ida e Volta – Associação Cultural e Artística",
         "descricaoEvento": "",
-        "duracaoEvento": "",
-        "classificacaoEtariaEvento": "",
-        "entrada": ""
-    },
-    {
-        "id": "2",
-        "titulo": "Bolo Rei Gigante",
-        "horavento": "18h00 – 20h00",
-        "dia": "",
-        "mes": "",
-        "por": "ORGANIZAÇÃO: ASSOCIAÇÃO EMPRESARIAL DE BRAGA",
-        "localEvento": " MERCADO MUNICIPAL DE BRAGA",
-        "subtituloEvento": "",
-        "descricaoEvento": "O Bolo-Rei Gigante será confecionado, especialmente para este dia, pelas melhores pastelarias da cidade de Braga, que decidam abraçar este desafio.",
         "duracaoEvento": "",
         "classificacaoEtariaEvento": "",
         "entrada": ""

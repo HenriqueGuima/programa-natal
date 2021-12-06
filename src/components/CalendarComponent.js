@@ -27,6 +27,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/nal7XFg.png"
                 alt="present"
@@ -46,6 +47,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/FoA1bsK.png"
                 alt="present"
@@ -65,8 +67,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/RZBtuCc.png"
+                src="https://imgur.com/Ngtlfxd.png"
                 alt="present"
               ></img>
             </div>
@@ -84,8 +87,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/kbeb0Ci.png"
+                src="https://imgur.com/r7kcjNs.png"
                 alt="present"
               ></img>
             </div>
@@ -103,8 +107,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/TEutCZ7.png"
+                src="https://imgur.com/6eJJdvQ.png"
                 alt="present"
               ></img>
             </div>
@@ -122,6 +127,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/9siLmKF.png"
                 alt="present"
@@ -141,8 +147,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/TSdKhVE.png"
+                src="https://imgur.com/7QWVEbv.png"
                 alt="present"
               ></img>
             </div>
@@ -160,8 +167,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/I8ECto5.png"
+                src="https://imgur.com/HHnms7y.png"
                 alt="present"
               ></img>
             </div>
@@ -179,6 +187,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/pbqlEU7.png"
                 alt="present"
@@ -198,6 +207,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/0JoweGU.png"
                 alt="present"
@@ -217,8 +227,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/nXGuZ4J.png"
+                src="https://imgur.com/YMDrroG.png"
                 alt="present"
               ></img>
             </div>
@@ -236,6 +247,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/7ofmKfg.png"
                 alt="present"
@@ -255,8 +267,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/nrGzgXq.png"
+                src="https://imgur.com/lkzEC8q.png"
                 alt="present"
               ></img>
             </div>
@@ -274,8 +287,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/j43kPvk.png"
+                src="https://imgur.com/MSCV3gj.png"
                 alt="present"
               ></img>
             </div>
@@ -293,8 +307,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/mrd6FBR.png"
+                src="https://imgur.com/AKVJoYf.png"
                 alt="present"
               ></img>
             </div>
@@ -312,8 +327,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/mEvB4Id.png"
+                src="https://imgur.com/ZmyURSK.png"
                 alt="present"
               ></img>
             </div>
@@ -331,6 +347,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/Iv9Fp4O.png"
                 alt="present"
@@ -350,6 +367,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/HUuWQYq.png"
                 alt="present"
@@ -369,8 +387,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/RYRJsAu.png"
+                src="https://imgur.com/nS4Tvxe.png"
                 alt="present"
               ></img>
             </div>
@@ -388,8 +407,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/vrvww1g.png"
+                src="https://imgur.com/DERMjm3.png"
                 alt="present"
               ></img>
             </div>
@@ -407,8 +427,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/65ihV3B.png"
+                src="https://imgur.com/fswkEaI.png"
                 alt="present"
               ></img>
             </div>
@@ -426,8 +447,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/7wJnVeR.png"
+                src="https://imgur.com/VFRvxbI.png"
                 alt="present"
               ></img>
             </div>
@@ -445,6 +467,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/Nj7nBP9.png"
                 alt="present"
@@ -464,14 +487,15 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/wz8z2vi.png"
+                src="https://imgur.com/OnBJw78.png"
                 alt="present"
               ></img>
             </div>
           </article>
         </Link>
-        <Link to="/vintequatrodezembro">
+        {/* <Link to="/vintequatrodezembro">
           <article class="present">
             <div class="present__pane">
               <h1
@@ -482,14 +506,14 @@ export default function CalendarComponent() {
               </h1>
             </div>
             <div class="present__content">
-              <img
+              <img loading="lazy"
                 className="present_img"
                 src="https://imgur.com/oWUDaKJ.png"
                 alt="present"
               ></img>
             </div>
           </article>
-        </Link>
+        </Link> */}
         <Link to="/doisjaneiro">
           <article class="present">
             <div class="present__pane">
@@ -502,8 +526,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/YLgO6nm.png"
+                src="https://imgur.com/GqzOVkR.png"
                 alt="present"
               ></img>
             </div>
@@ -521,6 +546,7 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
                 src="https://imgur.com/BOGQIfm.png"
                 alt="present"
@@ -540,8 +566,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/pjKlPrZ.png"
+                src="https://imgur.com/FRDmXMw.png"
                 alt="present"
               ></img>
             </div>
@@ -559,8 +586,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/wW4CLm6.png"
+                src="https://imgur.com/StvX8E5.png"
                 alt="present"
               ></img>
             </div>
@@ -578,8 +606,9 @@ export default function CalendarComponent() {
             </div>
             <div class="present__content">
               <img
+                loading="lazy"
                 className="present_img"
-                src="https://imgur.com/uC8zt91.png"
+                src="https://imgur.com/syDrrwX.png"
                 alt="present"
               ></img>
             </div>
